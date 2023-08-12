@@ -25,6 +25,7 @@
 # MAGIC   - Transformations:  **`select`**, **`where`**, **`orderBy`**
 # MAGIC   - Actions: **`show`**, **`count`**, **`take`**
 # MAGIC   - Other methods: **`printSchema`**, **`schema`**, **`createOrReplaceTempView`**
+# MAGIC   
 
 # COMMAND ----------
 
